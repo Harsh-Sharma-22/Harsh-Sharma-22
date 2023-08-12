@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2019/12/what-is-data-science.jpg)
+![MasterHead](https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2019/12/what-is-data-science.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">I'm passionate about data science,ML,DL</h3>
 <img align="right" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
